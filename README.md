@@ -1,4 +1,4 @@
-# Lunavex.Result NuGet Package
+# Lunavex.EFCore.Pagination NuGet Package
 
 ## Overview
 The `Lunavex.EFCore.Pagination` package provides a solution for paginating database queries in EF Core applications. It offers a streamlined method to manage large datasets by breaking them into smaller, manageable chunks. This library focuses on simplifying pagination implementation, ensuring efficient data retrieval while maintaining response consistency in .NET applications.
